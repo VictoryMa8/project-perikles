@@ -1,3 +1,3 @@
 # project-perikles
 
-This is a full stack web application intended for my own learning, using Django and React. -Victory (Victor) Ma (2025-06-02)
+Project Perikles consists of a full stack application in development in order for my own learning experience using Django, PostgreSQL, and React. -Victory (Victor) Ma (2025-06-02)
